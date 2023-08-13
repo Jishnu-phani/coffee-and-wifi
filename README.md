@@ -10,4 +10,6 @@ for being able to run the python project, please install the following modules
 
 To have a glimpse of how the website works have a look at the video in the attatched zip file below.
 
-[Coffee and Wifi - Google Chrome 2023-08-12 16-36-04.zip](https://github.com/Jishnu-phani/coffee-and-wifi/files/12328829/Coffee.and.Wifi.-.Google.Chrome.2023-08-12.16-36-04.zip)
+[Coffee and Wifi.zip](https://github.com/Jishnu-phani/coffee-and-wifi/files/12328829/Coffee.and.Wifi.-.Google.Chrome.2023-08-12.16-36-04.zip)<br>
+Note:<br>
+The "coffee rating", "wifi strength rating" and the "power socket availability" fields in the "/add" page are drop down menus which are not seen in the video
